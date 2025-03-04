@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NumberValidation.Controllers.NumberValidationController",
+    "Method": "CheckNumber",
+    "RelativePath": "api/NumberValidation/check",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NumberValidation.Models.NumberRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

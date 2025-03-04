@@ -1,0 +1,72 @@
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\appsettings.json
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\NumberValidation.staticwebassets.endpoints.json
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\NumberValidation.exe
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\NumberValidation.deps.json
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\NumberValidation.runtimeconfig.json
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\NumberValidation.dll
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\NumberValidation.pdb
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberValidation.csproj.AssemblyReference.cache
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberValidation.AssemblyInfoInputs.cache
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberValidation.AssemblyInfo.cs
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberValidation.csproj.CoreCompileInputs.cache
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberValidation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberValidation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\scopedcss\bundle\NumberValidation.styles.css
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\staticwebassets\msbuild.NumberValidation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\staticwebassets\msbuild.NumberValidation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\staticwebassets\msbuild.build.NumberValidation.props
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NumberValidation.props
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NumberValidation.props
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberVa.0160B31B.Up2Date
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberValidation.dll
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\refint\NumberValidation.dll
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberValidation.pdb
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\NumberValidation.genruntimeconfig.cache
+C:\Users\רחשי לב\source\repos\NumberValidation\NumberValidation\obj\Debug\net8.0\ref\NumberValidation.dll
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\appsettings.json
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\NumberValidation.staticwebassets.endpoints.json
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\NumberValidation.exe
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\NumberValidation.deps.json
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\NumberValidation.runtimeconfig.json
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\NumberValidation.dll
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\NumberValidation.pdb
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberValidation.csproj.AssemblyReference.cache
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberValidation.AssemblyInfoInputs.cache
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberValidation.AssemblyInfo.cs
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberValidation.csproj.CoreCompileInputs.cache
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberValidation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberValidation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\scopedcss\bundle\NumberValidation.styles.css
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\staticwebassets\msbuild.NumberValidation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\staticwebassets\msbuild.NumberValidation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\staticwebassets\msbuild.build.NumberValidation.props
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NumberValidation.props
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NumberValidation.props
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberVa.0160B31B.Up2Date
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberValidation.dll
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\refint\NumberValidation.dll
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberValidation.pdb
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\NumberValidation.genruntimeconfig.cache
+C:\Users\רחשי לב\Desktop\‏‏תיקיה חדשה\server\NumberValidation\obj\Debug\net8.0\ref\NumberValidation.dll
